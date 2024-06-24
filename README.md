@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jissftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jissftw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jisshnu h j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisshnu h j" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jisshnu h j](https://www.linkedin.com/in/jisshnuhj/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisshnu h j" height="30" width="40" /></a>
 <a href="https://fb.com/jisshnu h j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jisshnu h j" height="30" width="40" /></a>
 <a href="https://instagram.com/ft.jisshnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.jisshnu" height="30" width="40" /></a>
 </p>
