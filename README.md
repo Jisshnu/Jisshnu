@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Jisshnu H J</h1>
 <h3 align="center">I am a passionate frontend developer, expanding my skillset to encompass data science. Eager to build interactive web applications to develop data-driven solutions and translate complex insights into user-friendly visualizations.</h3>
 
